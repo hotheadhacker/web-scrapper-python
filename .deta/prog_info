@@ -1,0 +1,1 @@
+{"id":"1d2bd1fc-a6c7-495d-8c89-25bc5f6646ce","space":1723,"runtime":"python3.7","name":"python-web-scrapper","path":"eelzw4","project":"a0z3heiu","account":"270921617325","region":"ap-southeast-1","deps":["fastapi","uvicorn","ujson","requests","beautifulsoup4"],"envs":null,"public":true,"log_level":"debug","cron":"","reload_deps":false}
